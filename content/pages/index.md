@@ -181,6 +181,7 @@ sections:
               - mr-0
             padding:
               - pl-4
+              - pr-4
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
