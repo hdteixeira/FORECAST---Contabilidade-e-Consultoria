@@ -177,7 +177,7 @@ sections:
           self:
             margin:
               - mt-0
-              - ml-6
+              - ml-0
               - mr-0
       - url: /images/wellster-logo.svg
         altText: Wellster logo
