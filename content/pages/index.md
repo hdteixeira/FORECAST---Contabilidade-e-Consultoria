@@ -176,7 +176,7 @@ sections:
         styles:
           self:
             margin:
-              - mt-2
+              - mt-0
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
