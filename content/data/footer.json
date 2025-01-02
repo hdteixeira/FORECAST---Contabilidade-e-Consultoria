@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/ico.png",
-        "altText": "Logo light",
+        "altText": "",
         "type": "ImageBlock"
     },
     "text": "",
