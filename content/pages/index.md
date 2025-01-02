@@ -146,7 +146,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Imposto de Renda
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Dispomos de uma equipe qualificada e pronta para realizar as
           declarações de imposto de renda para Pessoa Jurídica e/ou Pessoa
