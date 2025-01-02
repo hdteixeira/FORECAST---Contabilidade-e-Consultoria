@@ -174,7 +174,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Serviços Societários
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Possui sócios? Fique tranquilo, nós cuidaremos de todos os processos
           legais e administrativos.
