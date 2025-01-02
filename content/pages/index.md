@@ -147,10 +147,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Dispomos de uma equipe qualificada e pronta para realizar as
+          declarações de imposto de renda para Pessoa Jurídica e/ou Pessoa
+          Física.
         image:
           type: ImageBlock
           url: /images/icon1.svg
