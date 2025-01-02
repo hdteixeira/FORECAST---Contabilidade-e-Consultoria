@@ -99,7 +99,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Fiscal e Tributário
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Gestão Fiscal, planejamento tributário e assessoria constante para te
           auxiliar a seguir o caminho mais seguro, correto e viável.
