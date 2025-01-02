@@ -122,7 +122,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Departamento Pessoal
         subtitle: Faster
         text: >
           Cálculos, emissão da folha de pagamentos, 13º salário, férias,
