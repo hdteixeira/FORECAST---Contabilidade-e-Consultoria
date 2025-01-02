@@ -13,18 +13,7 @@
         "url": "/images/1.png"
     },
     "primaryLinks": [],
-    "secondaryLinks": [
-        {
-            "type": "Link",
-            "altText": "Facebook",
-            "url": "/",
-            "showIcon": true,
-            "icon": "facebook",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-dark-fg-light",
     "type": "Header"
