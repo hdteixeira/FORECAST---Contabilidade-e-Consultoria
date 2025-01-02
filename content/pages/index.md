@@ -61,7 +61,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Nossos Serviços
+      text: 'Nossos Serviços:'
       color: text-light
       styles:
         self:
