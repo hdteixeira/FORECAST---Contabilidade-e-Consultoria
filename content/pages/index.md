@@ -227,7 +227,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 500k
+        title: Outros Serviços
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
