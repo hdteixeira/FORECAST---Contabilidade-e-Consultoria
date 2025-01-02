@@ -7,7 +7,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with aPolítica de Privacidade
+      text: Política de Privacidade
       color: text-dark
       styles:
         self:
