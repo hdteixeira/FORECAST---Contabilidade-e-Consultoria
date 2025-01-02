@@ -2,7 +2,7 @@
 title: ''
 slug: /blog
 numOfPostsPerPage: 0
-enableSearch: false
+enableSearch: true
 topSections:
   - type: GenericSection
     title:
