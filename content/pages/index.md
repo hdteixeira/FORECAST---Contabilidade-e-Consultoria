@@ -201,7 +201,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Consultorias
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Prestamos consultorias nas áreas administrativa e financeira. Vamos
           ajudar sua empresa a seguir o melhor caminho.
