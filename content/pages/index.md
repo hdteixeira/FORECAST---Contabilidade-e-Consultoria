@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Contabilidade
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Registro dos fatos contábeis da organização, geração de balanços,
           demonstrações de resultados e demais relatórios com informações
