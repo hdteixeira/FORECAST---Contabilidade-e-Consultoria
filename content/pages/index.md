@@ -229,10 +229,9 @@ sections:
       - type: FeaturedItem
         title: Outros Serviços
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Abertura e legalização da sua empresa, alterações do contrato social,
+          emissão e acompanhamento de certidões e etc.
         image:
           type: ImageBlock
           url: /images/icon1.svg
