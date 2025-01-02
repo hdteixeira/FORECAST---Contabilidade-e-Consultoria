@@ -1,5 +1,5 @@
 ---
-title: aa
+title: ''
 slug: /blog
 numOfPostsPerPage: 1
 enableSearch: false
