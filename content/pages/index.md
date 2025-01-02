@@ -289,7 +289,7 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - title: Divider
+  - title: Divisão
     colors: bg-light-fg-dark
     styles:
       self:
