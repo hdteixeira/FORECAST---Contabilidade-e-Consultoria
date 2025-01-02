@@ -156,13 +156,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-light
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-dark-fg-light
