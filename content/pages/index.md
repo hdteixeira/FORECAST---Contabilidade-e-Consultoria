@@ -100,10 +100,9 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Gestão Fiscal, planejamento tributário e assessoria constante para te
+          auxiliar a seguir o caminho mais seguro, correto e viável.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
