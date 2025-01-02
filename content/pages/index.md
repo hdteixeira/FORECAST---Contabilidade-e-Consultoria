@@ -7,7 +7,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       A Forecast, é uma empresa que oferece soluções em contabilidade e
       consultoria nas áreas administrativa e financeira para pessoas e negócios.
