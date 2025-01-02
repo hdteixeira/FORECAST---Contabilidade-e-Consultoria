@@ -1,75 +1,15 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
+        "url": "/images/ico.png",
+        "altText": "",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "text": "",
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
+            "altText": "Email link",
+            "url": "/",
+            "icon": "mail",
             "type": "Social"
         },
         {
@@ -79,15 +19,23 @@
             "type": "Social"
         },
         {
-            "altText": "Email link",
+            "type": "Social",
+            "altText": "Instagram link",
             "url": "/",
-            "icon": "mail",
-            "type": "Social"
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Termos",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -95,7 +43,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Privacidade",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -103,7 +51,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Copyright © 2025 - Todos os direitos reservados - Forecast Contabilidade Ltda. - CNPJ : 48.870.649/0001-9\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
