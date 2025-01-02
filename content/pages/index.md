@@ -70,7 +70,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Contabilidade
         subtitle: Numbers Done
         text: >
           Registro dos fatos contábeis da organização, geração de balanços,
