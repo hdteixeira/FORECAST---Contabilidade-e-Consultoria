@@ -255,7 +255,7 @@ sections:
             textAlign: left
     actions: []
     elementId: ''
-    variant: big-list
+    variant: toggle-list
     colors: bg-dark-fg-light
     styles:
       self:
