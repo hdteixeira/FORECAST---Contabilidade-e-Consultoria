@@ -24,16 +24,7 @@ sections:
       Nossa missão é gerar ótimos resultados e promover o crescimento econômico,
       financeiro e patrimonial dos nossos clientes, através de planejamento,
       execução e gerenciamento.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
