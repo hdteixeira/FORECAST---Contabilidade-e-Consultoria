@@ -123,7 +123,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Departamento Pessoal
-        subtitle: Faster
+        subtitle: ''
         text: >
           Cálculos, emissão da folha de pagamentos, 13º salário, férias,
           admissão/demissão, entre outros serviços.
