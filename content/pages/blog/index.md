@@ -1,6 +1,6 @@
 ---
 title: ''
-slug: /blog
+slug: /
 numOfPostsPerPage: 0
 enableSearch: false
 topSections: []
