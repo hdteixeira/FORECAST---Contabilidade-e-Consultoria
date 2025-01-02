@@ -228,7 +228,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Outros Serviços
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Abertura e legalização da sua empresa, alterações do contrato social,
           emissão e acompanhamento de certidões e etc.
