@@ -145,7 +145,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: 500k
+        title: Imposto de Renda
         subtitle: Numbers Done
         text: >
           Dispomos de uma equipe qualificada e pronta para realizar as
