@@ -42,7 +42,7 @@ sections:
           - pb-16
           - pr-16
       text:
-        textAlign: center
+        textAlign: justify
   - type: FeaturedItemsSection
     title:
       text: 'Nossos Serviços:'
