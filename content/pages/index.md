@@ -69,7 +69,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: none
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
             textAlign: left
         image:
